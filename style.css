@@ -1,0 +1,21 @@
+#calculator {
+    background-color: cyan;
+    width: 300px;
+}
+
+#output-container {
+    background-color: #111;
+}
+
+#output-before {
+    color: #aaa;
+}
+
+.calc-inp {
+    background-color: #111 !important;
+    text-overflow: ellipsis;
+}
+
+.calc-btn {
+    background-color: #111 !important;
+}
